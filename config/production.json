@@ -1,0 +1,6 @@
+{
+  "mongoURI": " mongodb://127.0.0.1:27017/DevConnector",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "22c8a07da4fdaea5e0b0",
+  "githubSecret": "You need a client secret to authenticate as the application to the API."
+}
